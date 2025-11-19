@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+uploads/
+.metrifiy.db
+.env
+*.sqlite3
